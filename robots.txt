@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://msmtrainerzone.com/sitemap.xml
